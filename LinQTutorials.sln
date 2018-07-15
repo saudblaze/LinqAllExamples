@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQTutorials", "LinQTutorials\LinQTutorials.csproj", "{003F7A13-B9A0-4EDA-B791-BA9F4A93B95E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{DCD6E89E-C8B8-474D-B9D4-C93EFA382CFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{003F7A13-B9A0-4EDA-B791-BA9F4A93B95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{003F7A13-B9A0-4EDA-B791-BA9F4A93B95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{003F7A13-B9A0-4EDA-B791-BA9F4A93B95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD6E89E-C8B8-474D-B9D4-C93EFA382CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD6E89E-C8B8-474D-B9D4-C93EFA382CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD6E89E-C8B8-474D-B9D4-C93EFA382CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD6E89E-C8B8-474D-B9D4-C93EFA382CFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
