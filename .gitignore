@@ -3,3 +3,9 @@
 ################################################################################
 
 *.lock
+*.ide
+*.ide-shm
+*.ide-wal
+/.vs/LinQTutorials/v15
+/LinQTutorials
+/Models
